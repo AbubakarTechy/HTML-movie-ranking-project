@@ -19,3 +19,9 @@ This project displays a curated list of movies using basic HTML structure.
 ## Project Goal
 
 The goal is to practice HTML headings, lists, links, and page structure while building a small movie-themed webpage.
+
+## Learning Outcomes
+
+- Understanding semantic HTML
+- Creating structured content
+- Organizing a basic webpage
