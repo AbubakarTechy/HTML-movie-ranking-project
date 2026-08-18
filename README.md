@@ -15,3 +15,7 @@ This project displays a curated list of movies using basic HTML structure.
 ## Technologies
 
 - HTML5
+
+## Project Goal
+
+The goal is to practice HTML headings, lists, links, and page structure while building a small movie-themed webpage.
