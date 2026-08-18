@@ -33,3 +33,10 @@ The page is organized around a clear heading and movie ranking content, keeping 
 ## Accessibility
 
 The project uses straightforward HTML elements to keep the content readable and easy to navigate.
+
+## Future Improvements
+
+- Add CSS styling
+- Add movie posters
+- Improve responsive design
+- Add more movie categories
