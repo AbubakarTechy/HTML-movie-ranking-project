@@ -25,3 +25,7 @@ The goal is to practice HTML headings, lists, links, and page structure while bu
 - Understanding semantic HTML
 - Creating structured content
 - Organizing a basic webpage
+
+## Structure
+
+The page is organized around a clear heading and movie ranking content, keeping the markup simple and easy to understand.
