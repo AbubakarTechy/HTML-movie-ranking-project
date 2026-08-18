@@ -29,3 +29,7 @@ The goal is to practice HTML headings, lists, links, and page structure while bu
 ## Structure
 
 The page is organized around a clear heading and movie ranking content, keeping the markup simple and easy to understand.
+
+## Accessibility
+
+The project uses straightforward HTML elements to keep the content readable and easy to navigate.
