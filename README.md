@@ -40,3 +40,7 @@ The project uses straightforward HTML elements to keep the content readable and 
 - Add movie posters
 - Improve responsive design
 - Add more movie categories
+
+## Contribution
+
+This is a beginner practice project and can be extended with new design ideas, movie data, and interactive features.
