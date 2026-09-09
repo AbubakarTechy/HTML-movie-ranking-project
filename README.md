@@ -1,6 +1,6 @@
    # HTML Movie Ranking Project
  
-A simple movie ranking webpage built with HTML.
+A simple movie ranking webpage built with HTML. 
 
 ## Overview
 
