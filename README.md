@@ -1,4 +1,4 @@
- # HTML Movie Ranking Project
+  # HTML Movie Ranking Project
  
 A simple movie ranking webpage built with HTML.
 
