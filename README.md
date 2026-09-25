@@ -13,7 +13,7 @@ This project displays a curated list of movies using basic HTML structure.
 - Beginner-friendly structure
 
 ## Technologies
-
+ 
 - HTML5
 
 ## Project Goal 
